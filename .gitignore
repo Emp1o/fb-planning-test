@@ -3,3 +3,5 @@ __pycache__/
 *.pyc
 .DS_Store
 *.log
+exp_logs/
+wandb/
